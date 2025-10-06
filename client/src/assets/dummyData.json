@@ -1,0 +1,24 @@
+{
+    "Users" : [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "+91 9848653229",
+            "password": "password123",
+            "role": "admin",
+            "createdAt": "2022-01-01T00:00:00.000Z",
+            "updatedAt": "2022-01-01T00:00:00.000Z"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "phone": "+91 9848653229",
+            "password": "password123",
+            "role": "admin",
+            "createdAt": "2022-01-01T00:00:00.000Z",
+            "updatedAt": "2022-01-01T00:00:00.000Z"
+        }
+    ]
+}
